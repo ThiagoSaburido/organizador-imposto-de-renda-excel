@@ -71,7 +71,15 @@ Consolidação automática das principais informações cadastradas na planilha.
 Durante o desenvolvimento deste projeto, foi possível colocar em prática conhecimentos relacionados à organização e tratamento de dados no Excel, utilização de validações, fórmulas, formatação e construção de uma interface mais amigável.
 
 O projeto também contribuiu para desenvolver uma visão mais prática sobre como o Excel pode ser utilizado para transformar dados em informações organizadas e úteis para tomada de decisão.
+## 🖼️ Imagens do Projeto
 
+### 🏠 Menu Principal
+
+![Menu Principal](images/menu.png)
+
+### 📊 Resumo das Informações
+
+![Resumo da Planilha](images/resumo.png)
 ## ⚠️ Observação
 
 Esta ferramenta possui finalidade educacional e organizacional e não substitui sistemas oficiais, profissionais de contabilidade ou orientações da Receita Federal.
